@@ -1,6 +1,6 @@
 ## Hey, this is Sansi 👋
 
-I'm from Nepal, currently a senior at USF. I got into security because it's where cool people and technology meet (still working on the cool part). Goal is to build things and give back to this industry.
+I'm currently a senior at USF. I got into security because it's where cool people and technology meet (still working on the cool part). Goal is to build things and give back to this industry.
 
 Looking for internships and full-time cybersecurity roles (graduating May 2027).
 
